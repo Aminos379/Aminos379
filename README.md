@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Amine Mokhtari===============================================================================================================================================Beginer Web Developer and currently studying Full Stack Engineering.--------------------------------------------------------------------I am interested in Web development, always up to learn more and get better everyday.* 🌍  I'm based in Meknes* ✉️  You can contact me at [mokhtari.mohammed11@gmail.com](mailto:mokhtari.mohammed11@gmail.com)* 🧠  I'm learning Software Engineering and Web Development.* ⚡  Am looking forward to meet new people,why not even making new friends!!
+<p style="font-size:40px;">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Amine Mokhtari</p>
+Beginer Web Developer and currently studying Full Stack Engineering.
+I am interested in Web development, always up to learn more and get better everyday.
+* 🌍  I'm based in Meknes
+*  ✉️  You can contact me at [mokhtari.mohammed11@gmail.com](mailto:mokhtari.mohammed11@gmail.com)
+* 🧠  I'm learning Software Engineering and Web Development.
+* ⚡  Am looking forward to meet new people,why not even making new friends!!
 
 <a href="https://www.github.com/Aminos379" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aminos379?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
