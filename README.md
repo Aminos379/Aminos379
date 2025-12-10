@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Amine Mokhtari :3
 =========================================================================================================================================
 
-Beginer in Web Development
+
 -------------------------------------------------------------------
 
 i'm currently studying in SE ALX to be a full stack developer in software engineering and i'm looking forward to be a Web Developer
 
-* 🌍  I'm based in Meknes
-* ✉️  You can contact me at [mokhtari.mohammed11@gmail.com](mailto:mokhtari.mohammed11@gmail.com)
+* 🌍  I'm based in Marseille
+* ✉️  You can contact me at [amine.mokhtar379@gmail.com](mailto:amine.mokhtari379@gmail.com)
 * 🧠  I'm learning Software engineering but more interested in front end development
-* ⚡  Am into anime and sport,looking forward to make new friends :3
+  
 
 <a href="https://www.github.com/Aminos379" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aminos379?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Aminox379" target="_blank" rel="noreferrer"><img
