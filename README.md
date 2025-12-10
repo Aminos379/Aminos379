@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -------------------------------------------------------------------
 
-i'm currently studying in SE ALX to be a full stack developer in software engineering and i'm looking forward to be a Web Developer
+I am currently in the second year of my Master’s program in Environmental Management, specializing in Sustainable Energy Mix Management and Ecological Transition, at Aix-Marseille University and u am interested in coding.
 
 * 🌍  I'm based in Marseille
 * ✉️  You can contact me at [amine.mokhtar379@gmail.com](mailto:amine.mokhtari379@gmail.com)
