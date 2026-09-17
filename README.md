@@ -43,13 +43,6 @@ I’m interested in using **Python for engineering calculations, energy data ana
 
 - Feasibility study and sizing of a photovoltaic system for an industrial site.
 
-## Education & technical background
-
-- **Aix-Marseille University — Master's studies:** energy mix management, renewable energy, and energy efficiency.
-- **Master 1 — Electronics, Advanced Materials & New Energies:** Faculté Polydisciplinaire, Ouarzazate.
-- **Professional Bachelor's degree — Renewable Energy & Energy Efficiency:** École Supérieure de Technologie, Meknès.
-- **DUT — Thermal Engineering & Energy:** École Supérieure de Technologie, Meknès.
-
 ## Academic projects
 
 - **Building energy audit:** assessment of a villa with photovoltaic integration.
@@ -68,15 +61,6 @@ I’m interested in using **Python for engineering calculations, energy data ana
 | Programming & analysis | Python, MATLAB, R, Fortran, Excel |
 | Simulation & design | Pleiades, TRNSYS, Revit, AutoCAD, QGIS |
 | Development foundations | Git, C, shell scripting, HTML, CSS, JavaScript |
-
-## Selected training & certificates
-
-- **Google IT Automation with Python**
-- **IHG Energy Management Advanced Course — Schneider Electric**
-- **ISO 50001:2018 Energy Management Awareness**
-- **Electric Heat Pumps in the Energy Transition Framework — ASSET Project**
-- **Revit 2026: Essential Training for Architects — LinkedIn Learning**
-- **L’essentiel d’AutoCAD — LinkedIn Learning**
 
 ## Current direction
 
