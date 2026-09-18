@@ -1,77 +1,55 @@
 # Mohammed Amine Mokhtari
 
-### Energy Engineering · Renewable Energy · Electrical & Thermal Systems · Python
+### Energy Engineering · Renewable Energy · Power & Thermal Systems · Python
 
-My Master's studies at **Aix-Marseille University** focus on **energy mix management, renewable energy, and energy efficiency**. My background combines photovoltaic systems, electrical grid integration, thermal engineering, HVAC, and electric vehicle charging infrastructure.
+Master's student in energy engineering at **Aix-Marseille University**, with experience in renewable-energy systems, electrical integration, thermal engineering and energy efficiency.
 
-I’m interested in using **Python for engineering calculations, energy data analysis, modeling, and automation**, bringing together physical understanding and computational methods.
+I use **Python and engineering simulation tools** for physical modelling, energy-data analysis and forecasting. My interests include PV grid integration, power systems, thermal engineering, EV charging and energy-system optimisation.
 
-## Engineering experience
+## Featured engineering projects
 
-### Photovoltaic grid integration — OCP, Morocco
-**Engineering internship · 2026**
+### [Spain Electricity Demand Forecasting](https://github.com/Aminos379/Spain-Electricity-Demand-Forecasting)
 
-- Study of photovoltaic power plant grid connection, including sizing and protection considerations.
-- Analysis of the impact of solar power injection on the electrical network.
-- Energy yield simulation and loss analysis with **PVsyst**.
-- Supervision and performance monitoring, with exposure to testing and commissioning activities.
+One-hour-ahead forecasting of Spanish electricity demand using **Python and LSTM**, comparing historical load, calendar and observed-weather inputs.
 
-### Renewable energy & EV charging — Métropole Aix-Marseille-Provence, France
-**Engineering internship · 2025**
+- **168-hour history**; chronological training on 2015–2016, validation on 2017 and final testing on 2018.
+- Best tested LSTM: **MAE 375.39 MW · RMSE 567.41 MW · MAPE 1.30%**.
+- Persistence and TSO benchmarks, with hourly, monthly and seasonal error analysis.
+- Calendar features improved the LSTM; weather did not improve it further in this experiment. The supplied TSO forecast performed better, although its issue time and information set are unknown.
 
-- Design and layout of a fast-charging station, including vehicle circulation studies.
-- Study of associated photovoltaic generation, solar carports, self-consumption, and storage.
-- Preparation of **DWG technical drawings** and preliminary design documentation (**ESQ/APS**).
-- Integration of site constraints and stormwater management into the station layout.
+Academic project completed with **[Aymen EZZAHRI](https://www.linkedin.com/in/aymen-ezzahri/)**. The repository contains the methods, code, measured results and figures.
 
-### Energy efficiency & HVAC — Capclim Énergie, Morocco
-**Engineering internship · 2023**
+### [3D Transient Heat Conduction](https://github.com/Aminos379/3D-Transient-Heat-Transfer)
 
-- Energy audits and analysis of energy use.
-- Sizing of heating, ventilation, and air-conditioning systems.
-- Contribution to energy action plans and regulatory follow-up.
-- Development of metering plans and monitoring of energy performance indicators.
+A **Python extension of an earlier 1D Fortran model**, studying transient conduction through a wall with a localised hot patch.
 
-### Thermal & solar energy — ONEE, Morocco
-**Energy engineering internship · 2022**
+- Explicit finite differences in three spatial dimensions, with a checked stability criterion.
+- Analytical benchmark, grid-refinement verification on a smooth test case, and comparisons with an equivalent 1D solution and a known steady state.
+- Temperature slices, a 3D cutaway and centreline profiles to interpret heat spreading.
 
-- Study of energy autonomy for a solar field within a combined-cycle context.
-- Analysis of concentrated solar power systems and their integration with combined-cycle power generation.
+The model covers solid conduction only. Convection, radiation and multilayer materials are possible extensions; the default hot-patch case still requires its own convergence study.
 
-### Industrial photovoltaics — Agro Juice Processing, Morocco
-**Photovoltaic systems internship · 2021**
+## Engineering background
 
-- Feasibility study and sizing of a photovoltaic system for an industrial site.
+My internships include **PV grid integration and performance analysis at OCP**, **fast EV charging and associated PV design at Métropole Aix-Marseille-Provence**, **energy efficiency and HVAC at Capclim Énergie**, and **solar-thermal systems at ONEE**.
 
-## Academic projects
+This background connects electrical and thermal systems with energy audits, engineering design and numerical analysis.
 
-- **Building energy audit:** assessment of a villa with photovoltaic integration.
-- **Electricity consumption time-series modeling:** project combining recurrent neural networks (RNNs) and genetic algorithms.
-- **Solar thermal collector:** study and sizing of a solar thermal collector.
-- **PV grid integration:** final-year project connecting energy yield, grid connection, and plant performance analysis.
+## Technical tools
 
-## Technical toolkit
+| Area | Tools |
+|---|---|
+| Energy and simulation | PVsyst · Pleiades · TRNSYS |
+| Engineering design | AutoCAD · Revit · QGIS |
+| Programming and analysis | Python · MATLAB · R · Fortran · Excel |
+| Version control | Git |
 
-| Area | Topics and tools |
-| --- | --- |
-| Photovoltaics & renewables | PV sizing, energy yield, loss analysis, solar thermal, PVsyst |
-| Electrical systems | PV grid integration, protection considerations, power quality, reactive power, IRVE |
-| Thermal systems & HVAC | Heating, ventilation, air conditioning, building thermal analysis, heat pumps |
-| Energy efficiency | Energy audits, consumption analysis, metering plans, performance indicators |
-| Programming & analysis | Python, MATLAB, R, Fortran, Excel |
-| Simulation & design | Pleiades, TRNSYS, Revit, AutoCAD, QGIS |
-| Development foundations | Git, C, shell scripting, HTML, CSS, JavaScript |
+## Current focus
 
-## Current direction
+**Energy systems · Physical modelling · Data analysis · Optimisation**
 
-I’m strengthening my Python practice through energy engineering applications: analyzing production and consumption data, automating calculations, and building reproducible studies with clear assumptions and visualizations.
-
-My earlier repositories document my programming foundations. This GitHub profile is evolving into a portfolio covering **electrical and thermal energy systems, renewable energy, and applied computing**.
-
-## Connect
-
-Interested in engineering and research opportunities in **energy efficiency, renewable energy, electrical systems, HVAC, and energy modeling**.
-
-**Languages:** French · English · Arabic
+Interested in R&D involving renewable-energy integration, power systems, electricity forecasting and thermal engineering.
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-amine-mokhtari-567262255/)
+
+**Languages:** French · English · Arabic
