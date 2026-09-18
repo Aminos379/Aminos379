@@ -39,9 +39,9 @@ This background connects electrical and thermal systems with energy audits, engi
 
 | Area | Tools |
 |---|---|
-| Energy and simulation | PVsyst · Pleiades · TRNSYS |
+| Energy and simulation | PVsyst · Pleiades · TRNSYS . 3D |
 | Engineering design | AutoCAD · Revit · QGIS |
-| Programming and analysis | Python · MATLAB · R · Fortran · Excel |
+| Programming and analysis | Python · MATLAB ·  Excel |
 | Version control | Git |
 
 ## Current focus
